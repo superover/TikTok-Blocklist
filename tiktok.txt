@@ -55,3 +55,9 @@ tiktok.com
 tiktok.org
 tiktokv.com
 musical.ly
+
+(\.|^)musical\.ly\.lan$
+(\.|^)musical\.ly$
+(\.|^)tiktokcdn\.com$
+(\.|^)tiktok\.com$
+(\.|^)tiktok\.org$
