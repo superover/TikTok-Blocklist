@@ -1,3 +1,9 @@
+api19-core-c-useast1a.tiktokv.com
+api16-core-c-useast1a.tiktokv.com	
+api16-core-va.tiktokv.com
+api19-core-va.tiktokv.com	
+api16-core-c-alisg.tiktokv.com
+api16-core-c-useast2a.tiktokv.com
 api16-core-c-useast2a.tiktokv.com
 api2-16-h2-eagle-useast2a.musical.ly.lan
 api2-16-h2-eagle.musical.ly.lan
@@ -47,3 +53,5 @@ webcast-useast2a.musical.ly
 webcast.musical.ly
 tiktok.com
 tiktok.org
+tiktokv.com
+musical.ly
