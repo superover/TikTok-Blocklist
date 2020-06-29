@@ -1,3 +1,4 @@
+api16-core-c-useast2a.tiktokv.com
 api2-16-h2-eagle-useast2a.musical.ly.lan
 api2-16-h2-eagle.musical.ly.lan
 api2-16-h2-useast2a.musical.ly.lan
