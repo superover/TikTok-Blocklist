@@ -44,3 +44,5 @@ pull-rtmp-l1.tiktokcdn.com
 pull-rtmp-l11.tiktokcdn.com
 webcast-useast2a.musical.ly
 webcast.musical.ly
+tiktok.com
+tiktok.org
