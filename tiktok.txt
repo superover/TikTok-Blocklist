@@ -63,3 +63,4 @@ api19-core-c-useast1a.tiktokv.com
 api19-core-c-useast2a.tiktokv.com
 api19-core-va.tiktokv.com
 api21-core-c-alisg.tiktokv.com
+pull-flv-f1-ab.tiktokcdn.com
