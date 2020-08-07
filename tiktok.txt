@@ -973,3 +973,12 @@ s0.pstatp.com.xi.zwtianshangm.com
 s3.pstatp.com.xi.zwtianshangm.com
 aweme.snssdk.com.xi.zwtianshangm.com
 is.snssdk.com.xi.zwtianshangm.com
+taobao.com
+taobao.net
+tbsandbox.com
+amap.com
+189.cn
+aliyuncs.com
+21cn.com
+cmbchina.com
+ixigua.com
