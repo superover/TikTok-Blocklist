@@ -982,3 +982,4 @@ aliyuncs.com
 21cn.com
 cmbchina.com
 ixigua.com
+dig.bdurl.net
